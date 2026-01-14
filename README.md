@@ -8,4 +8,4 @@
 - I am currently learning Java
 
 ## Contact
-- How to reach me **jukott01@wsc.edu**
+- Reach me at **jukott01@wsc.edu**
